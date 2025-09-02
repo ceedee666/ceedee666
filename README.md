@@ -6,5 +6,5 @@ Together with [Damir](https://github.com/damir-majer) I founded the ABAP CodeRet
     
 #### Links
 - [My Website](https://drumm.sh) with further information
-- [Mastodon](https://mastodon.social/@ceedee666)
+- <a href="https://mastodon.social/@ceedee666" rel="me">Mastodon</a>
 - [YouTube Channel](https://www.youtube.com/c/christiandrumm)
